@@ -21,6 +21,7 @@
     "posthtml-retext": "0.1.x",
     "retext-smartypants": "1.x",
     "rucksack-css": "0.8.x",
+    "spike": "^0.9.0",
     "sugarss": "0.1.x",
     "webpack": "1.13.x"
   },
